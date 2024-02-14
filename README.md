@@ -11,7 +11,7 @@ I use   <img height=18 src="https://upload.wikimedia.org/wikipedia/commons/5/5d/
 
 ## 📖 Languages
 
-![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge&logo=assembly&logoColor=white)
+![ASSEMBLY](https://img.shields.io/badge/_-ASSEMBLY-6E4C13.svg?style=for-the-badge&logo=assembly&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
