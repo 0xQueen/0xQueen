@@ -28,8 +28,8 @@ I use <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Al-logo.svg"
 ## 🖨️ GitHub Statistics
 
 <a href="#">
-  <img style="height=100; width=150;" src="https://github-readme-stats.vercel.app/api?username=0xqueen&show_icons=true&theme=transparent&border_radius=2.5&layout=compact" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=0xqueen&show_icons=true&theme=transparent&border_radius=2.5&layout=compact" />
 </a>
 <a href="#">
-  <img style="height=100; width=150;" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xqueen&show_icons=true&layout=compact&langs_count=8&card_width=300&border_radius=2.5&theme=transparent" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=0xqueen&show_icons=true&layout=compact&langs_count=8&border_radius=2.5&theme=transparent" />
 </a>
