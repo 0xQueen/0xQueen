@@ -1,4 +1,4 @@
-## print("Hello World!")
+## Yellow!!!
 
 I'm Queen//GODDESS, I'm a tech savvy & an open-source advocate. I love developing websites, and learning UI/UX designing. I love animals, and I enjoy making a world a better place. 
 
