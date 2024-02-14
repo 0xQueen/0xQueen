@@ -11,7 +11,7 @@ I'm Queen//GODDESS, I'm a tech savvy & an open-source advocate. I love developin
 
 I use <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Al-logo.svg" style="height: 18px; color: white;"> BTW.
 
-## 📖 Languages [IN ORDER]
+## 📖 Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
