@@ -7,7 +7,7 @@ I'm Queen//GODDESS, I'm a tech savvy & an open-source advocate. I love developin
 - Vengeance Pro 8x2 [3200MHz]
 - Samsung 980 PRO / 2 SSDs
 - 
-- I use <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Al-logo.svg" height=18px" BTW.
+- I use <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Al-logo.svg" height=18px"> BTW.
 
 ## 📖 Languages
 
