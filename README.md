@@ -9,7 +9,7 @@ I'm Queen//GODDESS, I'm a tech savvy & an open-source advocate. I love developin
 - Vengeance Pro 8x2 [3200MHz]
 - Samsung 980 PRO / 2 SSDs
 
-I use <img src="https://cdn.iconscout.com/icon/free/png-512/free-archlinux-3626856-3029264.png?f=webp&w=256"> BTW.
+I use <img src="https://cdn.iconscout.com/icon/free/png-512/free-archlinux-3626856-3029264.png?f=webp&w=256" style="height: 50px;"> BTW.
 
 ## 📖 Languages [IN ORDER]
 
