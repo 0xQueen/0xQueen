@@ -6,8 +6,7 @@ I'm Queen//GODDESS, I'm a tech savvy & an open-source advocate. I love developin
 - TUF GAMING B450M-PRO II
 - Vengeance Pro 8x2 [3200MHz]
 - Samsung 980 PRO / 2 SSDs
-
-I use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch&logoColor=fff&style=for-the-badge) BTW.
+- ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch&logoColor=fff&style=for-the-badge)
 
 ## 📖 Languages
 
