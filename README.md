@@ -6,8 +6,8 @@ I'm Queen//GODDESS, I'm a tech savvy & an open-source advocate. I love developin
 - TUF GAMING B450M-PRO II
 - Vengeance Pro 8x2 [3200MHz]
 - Samsung 980 PRO / 2 SSDs
-- 
-- I use   <img height=18 src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Al-logo.svg" /> BTW.
+
+I use   <img height=18 src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Al-logo.svg" /> BTW.
 
 ## 📖 Languages
 
